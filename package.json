@@ -1,0 +1,32 @@
+{
+  "name": "bemb",
+  "version": "1.0.0",
+  "description": "BEM util library to get class names",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch",
+    "benchmark": "node ./benchmark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komlev/bemb.git"
+  },
+  "keywords": [
+    "BEM",
+    "JS",
+    "classname",
+    "class"
+  ],
+  "author": "komlev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/komlev/bemb/issues"
+  },
+  "homepage": "https://github.com/komlev/bemb#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "jest": "^22.4.0"
+  }
+}
