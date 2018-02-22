@@ -1,6 +1,6 @@
 {
   "name": "bemb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BEM util library to get class names",
   "main": "index.js",
   "module": "index.js",
