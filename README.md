@@ -24,11 +24,11 @@ getElement('block', 'element', '--') // block--element
 Return you proper modifier class in BEM notation
 
 ```js
-getElement('block__element', 'modifier') // block__element_modifier
+getModifier('block__element', 'modifier') // block__element_modifier
 ```
 
 Default separator is "**_**" but this could be changed with third parameter
 
 ```js
-getElement('block__element', 'modifier', '-') // block__element-modifier
+getModifier('block__element', 'modifier', '-') // block__element-modifier
 ```
