@@ -34,7 +34,7 @@ getModifier('block__element', 'modifier', '-') // block__element-modifier
 ```
 
 ### createBlock
-Returns object with three methods *getElement*, *getModifier*, *getDivs*
+Returns object with three methods *getElement*, *getModifier*, *setDivs*
 
 ```js
 var block = createBlock('b');
