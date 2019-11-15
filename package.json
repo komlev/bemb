@@ -27,6 +27,6 @@
   "homepage": "https://github.com/komlev/bemb#readme",
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "jest": "^22.4.0"
+    "jest": "^24.9.0"
   }
 }
